@@ -1,0 +1,13 @@
+[project]
+name = "SecretAIry"
+version = "0.1.0"
+description = "xxxxxxx"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+  { name = "Yuan Garcia", email = "ygarcia@g.hmc.edu" },
+  { name = "Arihant Choudhary", email = "xxxx@xxxx.com"}
+]
+
+dependencies = []
